@@ -23,7 +23,7 @@ let Arr = [1,2,3,4,5];
 Arr = Arr.map((item,index) => item+1);
 
 
-/**************************************************************************************************************/
 // More resources to look at:
+/**************************************************************************************************************/
 // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map
 // https://www.youtube.com/watch?v=EnYlhbpzhU4

@@ -19,7 +19,6 @@ Arr = Arr.map(function(item,index) {
 
 // We can shorten this using ES6.
 
-let Arr = [1,2,3,4,5];
 Arr = Arr.map((item,index) => item+1);
 
 
